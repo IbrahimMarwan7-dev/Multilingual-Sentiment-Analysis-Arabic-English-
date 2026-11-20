@@ -16,7 +16,7 @@ The Streamlit application accepts text directly or reads a `.txt` file. It displ
 
 Additional examples:
 
-![English positive example](assets/Screenshot-Positive-2026-4-28.png)
+![English positive example](assets/Screenshot-mix-Negative-2026-4-28.png)
 
 ## Project structure
 
