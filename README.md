@@ -12,8 +12,7 @@ The Streamlit application accepts text directly or reads a `.txt` file. It displ
 
 | Arabic input | Mixed Arabic-English input | English / positive example |
 |---|---|---|
-|---|---|---|
-| ![Arabic sentiment example](assets/Screenshot-Ar-2026-4-28.png) | ![Arabic sentiment prediction](assets/Screenshot-ar-positive-2026-4-28.png) | ![Mixed-language example](assets/Screenshot-mix-2026-4-28.png) | ![Mixed-language negative prediction](assets/Screenshot-mix-Negative-2026-4-28.png) |
+| ![Arabic sentiment example](assets/Screenshot-Ar-2026-4-28.png) | ![Mixed-language example](assets/Screenshot-mix-2026-4-28.png) | ![Mixed-language negative prediction](assets/Screenshot-mix-Negative-2026-4-28.png) |
 
 Additional examples:
 
